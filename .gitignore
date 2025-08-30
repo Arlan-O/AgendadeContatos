@@ -1,0 +1,61 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Misc
+.DS_Store
+.vscode
+*.log
+*.db
+*.jsonl
+*.csv
+*.xlsx
+*.xls
+*.pdf
+*.mp3
+*.wav
+*.MOV
+*.xml
+# *.png
+*.jpg
+*.zip
+*.docx
+*.pptx
+*.m4a
+*.pdb
+*.bak
+*.publish
+*.html
+*.pkl
+_*
+!__init__.py
+_SESSION_DATA
+.cache/
+/data/
+/examples/paper_collector/data
+/examples/data_analysis/data
+/examples/data_analysis/output
+/examples/gui_agent_datamaker/data
+!/examples/gui_agent_datamaker/data/Dublin_Zoo_Intro.docx
+# /docs/examples_output
+/output/
+/workspace/
+/configs/agents/generated
+site/
+mytools/
+logs/
+
+.pytest_cache/
+.mypy_cache/
+# uv.lock
+.env
+test.yaml
+requirements.txt
+GEMINI.md
