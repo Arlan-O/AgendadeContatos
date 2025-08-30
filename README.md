@@ -23,4 +23,5 @@ O objetivo foi praticar conceitos de **CRUD (Create, Read, Update, Delete)**, or
 ---
 
 ## 📸 Demonstração
-<img width="1347" height="866" alt="image" src="https://github.com/user-attachments/assets/bcfd7030-399c-4386-ae15-54ef20b078c2" />
+<img width="1338" height="869" alt="image" src="https://github.com/user-attachments/assets/36c94f22-05bf-4629-ae1e-9981aaf088ae" />
+
