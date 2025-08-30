@@ -1,7 +1,0 @@
-defaults:
-  - model: base
-  - _self_
-
-agent:
-  name: utu-base
-  instructions: "You are a helpful assistant."
